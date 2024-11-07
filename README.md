@@ -1,4 +1,4 @@
-# C2-frameworks
+#  <img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Awesome+C2-frameworks%F0%9F%98%80">
 
 ![shall we play a game?](https://miro.medium.com/v2/resize:fit:1200/1*YUnWbo6GAIBHGbT57fJYmA.png)
 
